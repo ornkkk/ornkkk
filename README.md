@@ -56,7 +56,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="./Icons/gmail.gif" />][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/lin.gif" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/lin.gif" />][codepen]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/codepen.png" />][codepen]
 
 </details>
 
