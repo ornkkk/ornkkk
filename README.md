@@ -14,8 +14,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c++.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bash.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/python.gif"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/java.gif"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/python.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/java.png"/>
 
 <br />
 
@@ -54,8 +54,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./Icons/gmail.gif" />][gmail]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/lin.gif" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="./Icons/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/lin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/codepen.png" />][codepen]
 
 </details>
