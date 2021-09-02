@@ -1,4 +1,4 @@
-## Hi there, I'm Koushik Kiran Kumar - [$K^3$][website] 👋
+## Hi there, I'm Koushik Kiran Kumar - [K3][website] 👋
 
 ## About Me
 
