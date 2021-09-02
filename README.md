@@ -61,7 +61,7 @@
 </details>
 
 [website]: https://scholars.iitm.ac.in/profile/CS19S014
-[gmail]: ornk3.2104@gmail.com
+[gmail]: mailto:ornk3.2104@gmail.com
 [instagram]: https://instagram.com/_its_k3_
 [linkedin]: https://linkedin.com/in/ornkkk
 [codepen]: https://codepen.io/ornkkk
