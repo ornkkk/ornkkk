@@ -5,7 +5,7 @@
 
 - I'm a Research Scholar at Department of Computer Science and Engineering, Indian Institute of Technology, Madras, India.
 - Im currently working in the field of Algorithms and Complexity Theory. 
-- My current interests are in Design and Analysis of Algorithms, Networking, Machine Learning and Deep Learning.
+- My current interests are in the Design and Analysis of Algorithms, Networking, Machine Learning and Deep Learning.
 
 <br />
 
