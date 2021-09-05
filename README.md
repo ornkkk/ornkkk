@@ -11,66 +11,25 @@
 
 ## Skills:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c++.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bash.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/python.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/java.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/html.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/css.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/js.gif"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/react.gif"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/redux.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bs.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/sass.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/tf.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/matlab.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mysql.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mdb.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/git.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/github.gif"/>
+<img align="left" alt="C" width="26px" src="./Icons/c.png"/>
+<img align="left" alt="Cpp" width="26px" src="./Icons/c++.png"/>
+<img align="left" alt="Bash" width="26px" src="./Icons/bash.png"/>
+<img align="left" alt="Python" width="26px" src="./Icons/python.png"/>
+<img align="left" alt="Java" width="26px" src="./Icons/java.png"/>
+<img align="left" alt="HTML" width="26px" src="./Icons/html.png"/>
+<img align="left" alt="CSS" width="26px" src="./Icons/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="./Icons/js.gif"/>
+<img align="left" alt="React" width="26px" src="./Icons/react.gif"/>
+<img align="left" alt="Redux" width="26px" src="./Icons/redux.png"/>
+<img align="left" alt="BootStrap" width="26px" src="./Icons/bs.png"/>
+<img align="left" alt="SaSS width="26px" src="./Icons/sass.png"/>
+<img align="left" alt="Tensorflow" width="26px" src="./Icons/tf.png"/>
+<img align="left" alt="Matlab" width="26px" src="./Icons/matlab.png"/>
+<img align="left" alt="MySQL" width="26px" src="./Icons/mysql.png"/>
+<img align="left" alt="MongoDB" width="26px" src="./Icons/mdb.png"/>
+<img align="left" alt="Git" width="26px" src="./Icons/git.png"/>
+<img align="left" alt="Github" width="26px" src="./Icons/github.gif"/>
 
-### Langauges:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c++.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bash.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/python.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/java.png"/>
-
-<br />
-
-### Web Development:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/html.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/css.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/js.gif"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/react.gif"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/redux.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bs.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/sass.png"/>
-
-<br />
-
-### Frameworks and Modules:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/tf.png"/>
-
-<br />
-
-### Application Software:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/matlab.png"/>
-
-<br />
-
-### Databases:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mysql.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mdb.png"/>
-
-<br />
-
-### Other Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/git.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/github.gif"/>
-
-<br />
 
 ## Connect with me:
 
