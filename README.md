@@ -22,7 +22,7 @@
 <img align="left" alt="React" width="26px" src="./Icons/react.gif"/>
 <img align="left" alt="Redux" width="26px" src="./Icons/redux.png"/>
 <img align="left" alt="BootStrap" width="26px" src="./Icons/bs.png"/>
-<img align="left" alt="SaSS width="26px" src="./Icons/sass.png"/>
+<img align="left" alt="SaSS" width="26px" src="./Icons/sass.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="./Icons/tf.png"/>
 <img align="left" alt="Matlab" width="26px" src="./Icons/matlab.png"/>
 <img align="left" alt="MySQL" width="26px" src="./Icons/mysql.png"/>
@@ -30,6 +30,7 @@
 <img align="left" alt="Git" width="26px" src="./Icons/git.png"/>
 <img align="left" alt="Github" width="26px" src="./Icons/github.gif"/>
 
+<br />
 
 ## Connect with me:
 
