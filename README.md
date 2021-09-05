@@ -11,6 +11,25 @@
 
 ## Skills:
 
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c++.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bash.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/python.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/java.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/html.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/css.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/js.gif"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/react.gif"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/redux.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/bs.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/sass.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/tf.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/matlab.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mysql.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/mdb.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/git.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./Icons/github.gif"/>
+
 ### Langauges:
 <img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="./Icons/c++.png"/>
