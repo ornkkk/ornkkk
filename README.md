@@ -51,7 +51,7 @@
 
 [<img align="left" alt="mailto:ornkkk@gmail.com" width="22px" src="./Icons/gmail.png" />][gmail]
 [<img align="left" alt="www.linkedin.com/in/ornkkk" width="22px" src="./Icons/lin.png" />][linkedin]
-[<img align="left" alt="www.twitter.com/_imK3_" width="22px" src="./Icons/twitter.png" />][Twitter]
+[<img align="left" alt="www.twitter.com/_imK3_" width="22px" src="./Icons/logo-twitter-png-47448-Windows.ico" />][Twitter]
               
 
 </details>
