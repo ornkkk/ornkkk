@@ -49,8 +49,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./Icons/gmail.png" />][gmail]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./Icons/lin.png" />][linkedin]
+[<img align="left" alt="mailto:ornkkk@gmail.com" width="22px" src="./Icons/gmail.png" />][gmail]
+[<img align="left" alt="www.linkedin.com/in/ornkkk" width="22px" src="./Icons/lin.png" />][linkedin]
+[<img align="left" alt="www.twitter.com/_imK3_" width="22px" src="./Icons/twitter.png" />][Twitter]
               
 
 </details>
@@ -60,5 +61,6 @@
 [instagram]: https://instagram.com/_its_k3_
 [linkedin]: https://linkedin.com/in/ornkkk
 [codepen]: https://codepen.io/ornkkk
+[Twitter]: https://www.twitter.com/_imK3_
 
 
