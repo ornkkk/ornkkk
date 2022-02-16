@@ -1,5 +1,4 @@
 ## Hi there, I'm Koushik Kiran Kumar - [K3][website] 👋
-<img src="https://komarev.com/ghpvc/?username=ornkkk&label=Profile%20views&color=0e75b6&style=flat" alt="ornkkk" />
 
 ## About Me
 
@@ -33,6 +32,8 @@
 <br />
 
 ---
+
+<img src="https://komarev.com/ghpvc/?username=ornkkk&label=Profile%20views&color=0e75b6&style=flat" alt="ornkkk" />
 
 <center>
   <table>
