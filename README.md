@@ -56,10 +56,10 @@
 
 <table align="center" style="border-collapse:collapse; border:none;">
     <tr>
-        <td><a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"></a></td>
-        <td><a href="https://www.linkedin.com/in/ornkkk/"><img src="https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/" alt="Linkedin: ornkkk"></a></td>
-        <td><a href="https://github.com/ornkkk"><img src="https://img.shields.io/github/followers/ornkkk?label=follow&style=social" alt="GitHub: ornkkk"></a></td>
-        <td><a href="mailto:ornkkk@gmail.com"><img src="./Icons/gmail.png" alt="GitHub: ornkkk" width="20px" height="20px" alt="Gmail: ornk3.2104"></a></td> 
+        <td style="border: none;"><a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"></a></td>
+        <td style="border: none;"><a href="https://www.linkedin.com/in/ornkkk/"><img src="https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/" alt="Linkedin: ornkkk"></a></td>
+        <td style="border: none;"><a href="https://github.com/ornkkk"><img src="https://img.shields.io/github/followers/ornkkk?label=follow&style=social" alt="GitHub: ornkkk"></a></td>
+        <td style="border: none;"><a href="mailto:ornkkk@gmail.com"><img src="./Icons/gmail.png" alt="GitHub: ornkkk" width="20px" height="20px" alt="Gmail: ornk3.2104"></a></td> 
     </tr>   
 </table>
  
