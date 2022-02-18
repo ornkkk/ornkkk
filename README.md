@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Koushik Kiran Kumar - <a href="https://scholars.iitm.ac.in:443/profile/CS19S014">K3</a> 👋</h2>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me :raising_hand_man:</h2>
 
 - I'm a Research Scholar at Department of Computer Science and Engineering, Indian Institute of Technology, Madras, India.
 - Im currently working in the field of Algorithms, Complexity Theory, Knowledge Compilation and Circuit Theory. 
