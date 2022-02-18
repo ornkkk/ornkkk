@@ -44,7 +44,7 @@
  
 ---
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">Connect With Me :incoming_envelope: :mailbox_with_mail:</h2>
  
 <p align="center">
   <a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"> &ensp;</a>
