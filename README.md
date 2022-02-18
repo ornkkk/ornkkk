@@ -9,7 +9,8 @@
 <br />
 
 <h2 align="center">Skills :man_technologist:</h2>
-<p align="center>
+
+<p align="center">
 <img align="left" alt="C" width="26px" src="./Icons/c.png"/>
 <img align="left" alt="Cpp" width="26px" src="./Icons/c++.png"/>
 <img align="left" alt="Bash" width="26px" src="./Icons/bash.png"/>
