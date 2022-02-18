@@ -29,8 +29,6 @@
 <img  alt="Github" width="26px" src="./Icons/github.gif"/> &nbsp;
 </p>
 
----
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -41,8 +39,6 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornkkk&hide=html, jupyter notebook&layout=compact&show_icons=true&theme=dracula" />
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=dracula" />
  </p>
- 
----
 
 <h2 align="center">Connect With Me :incoming_envelope: :mailbox_with_mail:</h2>
  
