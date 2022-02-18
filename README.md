@@ -44,15 +44,6 @@
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=dracula" />
  </p>
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornkkk&hide=html, jupyter notebook&layout=compact&show_icons=true&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=dracula" /></td>
-    </tr>   
-  </table>
-</center>  
-
 ---
 
 <br />
