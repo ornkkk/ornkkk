@@ -8,8 +8,8 @@
 
 <br />
 
-## Skills:
-
+<h2 align="center">Skills :man_technologist:</h2>
+<p align="center>
 <img align="left" alt="C" width="26px" src="./Icons/c.png"/>
 <img align="left" alt="Cpp" width="26px" src="./Icons/c++.png"/>
 <img align="left" alt="Bash" width="26px" src="./Icons/bash.png"/>
@@ -28,7 +28,8 @@
 <img align="left" alt="MongoDB" width="26px" src="./Icons/mdb.png"/>
 <img align="left" alt="Git" width="26px" src="./Icons/git.png"/>
 <img align="left" alt="Github" width="26px" src="./Icons/github.gif"/>
-
+</p>
+                                                                    
 <br />
 
 ---
