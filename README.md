@@ -6,8 +6,6 @@
 - Im currently working in the field of Algorithms, Complexity Theory, Knowledge Compilation and Circuit Theory. 
 - My current interests are in the Design and Analysis of Algorithms, Networking, Fullstack Development, Machine Learning and Deep Learning.
 
-<br />
-
 <h2 align="center">Skills :man_technologist:</h2>
 
 <p align="center">
@@ -30,8 +28,6 @@
 <img  alt="Git" width="26px" src="./Icons/git.png"/> &nbsp;
 <img  alt="Github" width="26px" src="./Icons/github.gif"/> &nbsp;
 </p>
-                                                                    
-<br />
 
 ---
 
@@ -46,10 +42,7 @@
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=dracula" />
  </p>
  
- <br /> 
- 
 ---
- <br />
 
 <h2 align="center">Connect With Me</h2>
  
