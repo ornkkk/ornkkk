@@ -54,7 +54,7 @@
 
 <h2 align="center">Connect With Me</h2>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"></a>
  </p>
 [![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)
