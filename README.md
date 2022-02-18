@@ -39,8 +39,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ornkkk}/count.svg" alt="ornkkk :: Visitor's Count" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=ornkkk&label=Profile%20views&color=0e75b6&style=flat" alt="ornkkk" />
-
 <center>
   <table>
     <tr>
@@ -54,7 +52,18 @@
 
 <br />
 
-## Connect with me:
+<h2 align="center">Connect With Me</h2>
+<center>
+  <table>
+    <tr>
+        <td>[![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)</td>
+        <td>[![Linkedin: ornkkk](https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/)](https://www.linkedin.com/in/ornkkk/)</td>
+        <td>[![GitHub ornkkk](https://img.shields.io/github/followers/ornkkk?label=follow&style=social)](https://github.com/ornkkk)</td>
+        <td>[<img alt="mailto:ornkkk@gmail.com" width="20px" height="20px" src="./Icons/gmail.png" />][gmail]</td>
+    </tr>   
+  </table>
+</center>  
+
 
 [![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)
 [![Linkedin: ornkkk](https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/)](https://www.linkedin.com/in/ornkkk/)
