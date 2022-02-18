@@ -33,6 +33,12 @@
 
 ---
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ornkkk}/count.svg" alt="ornkkk :: Visitor's Count" /></p>
+
 <img src="https://komarev.com/ghpvc/?username=ornkkk&label=Profile%20views&color=0e75b6&style=flat" alt="ornkkk" />
 
 <center>
