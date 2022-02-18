@@ -11,8 +11,8 @@
 <h2 align="center">Skills :man_technologist:</h2>
 
 <p align="center">
-<img  alt="C" width="26px" src="./Icons/c.png"/>
-<img  alt="Cpp" width="26px" src="./Icons/c++.png"/>
+<img  alt="C" width="26px" src="./Icons/c.png"/> &nbsp;
+<img  alt="Cpp" width="26px" src="./Icons/c++.png"/> &nbsp;
 <img  alt="Bash" width="26px" src="./Icons/bash.png"/>
 <img  alt="Python" width="26px" src="./Icons/python.png"/>
 <img  alt="Java" width="26px" src="./Icons/java.png"/>
