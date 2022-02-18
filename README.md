@@ -11,24 +11,24 @@
 <h2 align="center">Skills :man_technologist:</h2>
 
 <p align="center">
-<img align="left" alt="C" width="26px" src="./Icons/c.png"/>
-<img align="left" alt="Cpp" width="26px" src="./Icons/c++.png"/>
-<img align="left" alt="Bash" width="26px" src="./Icons/bash.png"/>
-<img align="left" alt="Python" width="26px" src="./Icons/python.png"/>
-<img align="left" alt="Java" width="26px" src="./Icons/java.png"/>
-<img align="left" alt="HTML" width="26px" src="./Icons/html.png"/>
-<img align="left" alt="CSS" width="26px" src="./Icons/css.png"/>
-<img align="left" alt="JavaScript" width="26px" src="./Icons/js.gif"/>
-<img align="left" alt="React" width="26px" src="./Icons/react.gif"/>
-<img align="left" alt="Redux" width="26px" src="./Icons/redux.png"/>
-<img align="left" alt="BootStrap" width="26px" src="./Icons/bs.png"/>
-<img align="left" alt="SaSS" width="26px" src="./Icons/sass.png"/>
-<img align="left" alt="Tensorflow" width="26px" src="./Icons/tf.png"/>
-<img align="left" alt="Matlab" width="26px" src="./Icons/matlab.png"/>
-<img align="left" alt="MySQL" width="26px" src="./Icons/mysql.png"/>
-<img align="left" alt="MongoDB" width="26px" src="./Icons/mdb.png"/>
-<img align="left" alt="Git" width="26px" src="./Icons/git.png"/>
-<img align="left" alt="Github" width="26px" src="./Icons/github.gif"/>
+<img  alt="C" width="26px" src="./Icons/c.png"/>
+<img  alt="Cpp" width="26px" src="./Icons/c++.png"/>
+<img  alt="Bash" width="26px" src="./Icons/bash.png"/>
+<img  alt="Python" width="26px" src="./Icons/python.png"/>
+<img  alt="Java" width="26px" src="./Icons/java.png"/>
+<img  alt="HTML" width="26px" src="./Icons/html.png"/>
+<img  alt="CSS" width="26px" src="./Icons/css.png"/>
+<img  alt="JavaScript" width="26px" src="./Icons/js.gif"/>
+<img  alt="React" width="26px" src="./Icons/react.gif"/>
+<img  alt="Redux" width="26px" src="./Icons/redux.png"/>
+<img  alt="BootStrap" width="26px" src="./Icons/bs.png"/>
+<img  alt="SaSS" width="26px" src="./Icons/sass.png"/>
+<img  alt="Tensorflow" width="26px" src="./Icons/tf.png"/>
+<img  alt="Matlab" width="26px" src="./Icons/matlab.png"/>
+<img  alt="MySQL" width="26px" src="./Icons/mysql.png"/>
+<img  alt="MongoDB" width="26px" src="./Icons/mdb.png"/>
+<img  alt="Git" width="26px" src="./Icons/git.png"/>
+<img  alt="Github" width="26px" src="./Icons/github.gif"/>
 </p>
                                                                     
 <br />
