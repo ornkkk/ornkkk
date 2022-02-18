@@ -13,22 +13,22 @@
 <p align="center">
 <img  alt="C" width="26px" src="./Icons/c.png"/> &nbsp;
 <img  alt="Cpp" width="26px" src="./Icons/c++.png"/> &nbsp;
-<img  alt="Bash" width="26px" src="./Icons/bash.png"/>
-<img  alt="Python" width="26px" src="./Icons/python.png"/>
-<img  alt="Java" width="26px" src="./Icons/java.png"/>
-<img  alt="HTML" width="26px" src="./Icons/html.png"/>
-<img  alt="CSS" width="26px" src="./Icons/css.png"/>
-<img  alt="JavaScript" width="26px" src="./Icons/js.gif"/>
-<img  alt="React" width="26px" src="./Icons/react.gif"/>
-<img  alt="Redux" width="26px" src="./Icons/redux.png"/>
-<img  alt="BootStrap" width="26px" src="./Icons/bs.png"/>
-<img  alt="SaSS" width="26px" src="./Icons/sass.png"/>
-<img  alt="Tensorflow" width="26px" src="./Icons/tf.png"/>
-<img  alt="Matlab" width="26px" src="./Icons/matlab.png"/>
-<img  alt="MySQL" width="26px" src="./Icons/mysql.png"/>
-<img  alt="MongoDB" width="26px" src="./Icons/mdb.png"/>
-<img  alt="Git" width="26px" src="./Icons/git.png"/>
-<img  alt="Github" width="26px" src="./Icons/github.gif"/>
+<img  alt="Bash" width="26px" src="./Icons/bash.png"/> &nbsp;
+<img  alt="Python" width="26px" src="./Icons/python.png"/> &nbsp;
+<img  alt="Java" width="26px" src="./Icons/java.png"/> &nbsp;
+<img  alt="HTML" width="26px" src="./Icons/html.png"/> &nbsp;
+<img  alt="CSS" width="26px" src="./Icons/css.png"/> &nbsp;
+<img  alt="JavaScript" width="26px" src="./Icons/js.gif"/> &nbsp;
+<img  alt="React" width="26px" src="./Icons/react.gif"/> &nbsp;
+<img  alt="Redux" width="26px" src="./Icons/redux.png"/> &nbsp;
+<img  alt="BootStrap" width="26px" src="./Icons/bs.png"/> &nbsp;
+<img  alt="SaSS" width="26px" src="./Icons/sass.png"/> &nbsp;
+<img  alt="Tensorflow" width="26px" src="./Icons/tf.png"/> &nbsp;
+<img  alt="Matlab" width="26px" src="./Icons/matlab.png"/> &nbsp;
+<img  alt="MySQL" width="26px" src="./Icons/mysql.png"/> &nbsp;
+<img  alt="MongoDB" width="26px" src="./Icons/mdb.png"/> &nbsp;
+<img  alt="Git" width="26px" src="./Icons/git.png"/> &nbsp;
+<img  alt="Github" width="26px" src="./Icons/github.gif"/> &nbsp;
 </p>
                                                                     
 <br />
@@ -45,6 +45,8 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornkkk&hide=html, jupyter notebook&layout=compact&show_icons=true&theme=dracula" />
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=dracula" />
  </p>
+ 
+ <br />
  
 ---
 
