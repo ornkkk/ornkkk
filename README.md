@@ -1,5 +1,4 @@
-## Hi there, I'm Koushik Kiran Kumar - [K3][website] 👋
-<h1 align="center">Hi there, I'm Koushik Kiran Kumar - <a href="https://scholars.iitm.ac.in:443/profile/CS19S014">K3</a></h2>
+<h1 align="center">Hi there, I'm Koushik Kiran Kumar - <a href="https://scholars.iitm.ac.in:443/profile/CS19S014">K3</a> 👋</h2>
 
 <h2 align="center">About Me</h2>
 
