@@ -50,8 +50,8 @@
 
 ## Connect with me:
 
-[![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)  
-[![Linkedin: ornkkk](https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/)](https://www.linkedin.com/in/ornkkk/)  
+[![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)
+[![Linkedin: ornkkk](https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/)](https://www.linkedin.com/in/ornkkk/)
 [![GitHub ornkkk](https://img.shields.io/github/followers/ornkkk?label=follow&style=social)](https://github.com/ornkkk)
               
 
