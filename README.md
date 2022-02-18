@@ -55,11 +55,12 @@
 <h2 align="center">Connect With Me</h2>
 
 <p style="text-align: center;">
+  <a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"></a>
+ </p>
 [![Twitter: _imK3_](https://img.shields.io/twitter/follow/_imK3_?style=social)](https://twitter.com/_imK3_)
 [![Linkedin: ornkkk](https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/)](https://www.linkedin.com/in/ornkkk/)
 [![GitHub ornkkk](https://img.shields.io/github/followers/ornkkk?label=follow&style=social)](https://github.com/ornkkk)
 [<img alt="mailto:ornkkk@gmail.com" width="20px" height="20px" src="./Icons/gmail.png" />][gmail]
-</p>
               
 
 </details>
