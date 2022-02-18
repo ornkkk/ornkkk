@@ -55,7 +55,7 @@
 <h2 align="center">Connect With Me</h2>
 
 <table align="center" style="border-collapse:collapse; border:none;">
-    <tr>
+    <tr style="border: none;">
         <td style="border: none;"><a href="https://twitter.com/_imK3_"><img src="https://img.shields.io/twitter/follow/_imK3_?style=social" alt="Twitter: _imK3_"></a></td>
         <td style="border: none;"><a href="https://www.linkedin.com/in/ornkkk/"><img src="https://img.shields.io/badge/-ornkkk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ornkkk/" alt="Linkedin: ornkkk"></a></td>
         <td style="border: none;"><a href="https://github.com/ornkkk"><img src="https://img.shields.io/github/followers/ornkkk?label=follow&style=social" alt="GitHub: ornkkk"></a></td>
