@@ -2,8 +2,8 @@
 
 <h2 align="center">About Me :raising_hand_man:</h2>
 
-- I'm a Research Scholar at Department of Computer Science and Engineering, Indian Institute of Technology, Madras, India.
-- Im currently working in the field of Algorithms, Complexity Theory, Knowledge Compilation and Circuit Theory. 
+- I'm a MS Research Scholar at Department of Computer Science and Engineering, Indian Institute of Technology, Madras, India.
+- I'm currently working in the field of Algorithms, Complexity Theory, Knowledge Compilation and Boolean Circuit Theory. 
 - My current interests are in the Design and Analysis of Algorithms, Networking, Fullstack Development, Machine Learning and Deep Learning.
 
 <h2 align="center">Skills :man_technologist:</h2>
