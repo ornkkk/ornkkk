@@ -36,8 +36,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{ornkkk}/count.svg" alt="ornkkk :: Visitor's Count" /></p>
 
 <p align="center">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornkkk&hide=html, jupyter notebook&layout=compact&show_icons=true&theme=vue" />
-  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=vue" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornkkk&hide=html, jupyter notebook&layout=compact&show_icons=true&theme=flag-india" />
+  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=ornkkk&show_icons=true&count_private=true&theme=flag-india" />
  </p>
 
 <h2 align="center">Connect With Me :incoming_envelope: :mailbox_with_mail:</h2>
